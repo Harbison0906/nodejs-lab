@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_lab",
+  "version": "1.0.0",
+  "description": "lab to practice using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seth Harbison",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}

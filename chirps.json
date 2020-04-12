@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Seth Harbison",
+    "username": "Harby Birdman",
+    "birthday": "July 22"
+  },
+  {
+    "id": 2,
+    "name": "Katelyn Harbison",
+    "username": "Kate_Harb2015",
+    "birthday": "November 22"
+  },
+  {
+    "id": 3,
+    "name": "Holly Burcham",
+    "username": "HollyBTeaches",
+    "birthday": "March 26"
+  },
+  {
+    "id": 4,
+    "name": "Anna Beth Hood",
+    "username": "AB_Hood",
+    "birthday": "July 11"
+  },
+  {
+    "id": 5,
+    "name": "Clay Austin",
+    "username": "BegatOfDennis",
+    "birthday": "February 2"
+  }
+]
